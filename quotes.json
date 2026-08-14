@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "text": "Keep learning, one small step at a time.",
+        "author": "Anonymous",
+        "category": "Motivation"
+    },
+    {
+        "id": 2,
+        "text": "Every problem is an opportunity to learn something new.",
+        "author": "Anonymous",
+        "category": "Learning"
+    },
+    {
+        "id": 3,
+        "text": "Success grows from consistent effort.",
+        "author": "Anonymous",
+        "category": "Success"
+    },
+    {
+        "id": 4,
+        "text": "A curious mind can turn questions into discoveries.",
+        "author": "Anonymous",
+        "category": "Learning"
+    },
+    {
+        "id": 5,
+        "text": "Small progress is still progress.",
+        "author": "Anonymous",
+        "category": "Motivation"
+    },
+    {
+        "id": 6,
+        "text": "Great things begin with a willingness to start.",
+        "author": "Anonymous",
+        "category": "Success"
+    },
+    {
+        "id": 7,
+        "text": "Do not fear mistakes; use them as lessons.",
+        "author": "Anonymous",
+        "category": "Growth"
+    },
+    {
+        "id": 8,
+        "text": "Focus on what you can improve today.",
+        "author": "Anonymous",
+        "category": "Motivation"
+    },
+    {
+        "id": 9,
+        "text": "Knowledge becomes useful when you put it into practice.",
+        "author": "Anonymous",
+        "category": "Learning"
+    },
+    {
+        "id": 10,
+        "text": "Patience turns difficult beginnings into valuable skills.",
+        "author": "Anonymous",
+        "category": "Growth"
+    },
+    {
+        "id": 11,
+        "text": "A clear goal gives effort a direction.",
+        "author": "Anonymous",
+        "category": "Success"
+    },
+    {
+        "id": 12,
+        "text": "Keep going even when progress feels slow.",
+        "author": "Anonymous",
+        "category": "Motivation"
+    },
+    {
+        "id": 13,
+        "text": "The best way to understand something is to practice it.",
+        "author": "Anonymous",
+        "category": "Learning"
+    },
+    {
+        "id": 14,
+        "text": "Growth begins when you become comfortable being a beginner.",
+        "author": "Anonymous",
+        "category": "Growth"
+    },
+    {
+        "id": 15,
+        "text": "Consistency can turn ordinary effort into extraordinary results.",
+        "author": "Anonymous",
+        "category": "Success"
+    }
+]
