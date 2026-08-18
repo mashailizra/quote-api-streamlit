@@ -88,5 +88,17 @@
         "text": "Consistency can turn ordinary effort into extraordinary results.",
         "author": "Anonymous",
         "category": "Success"
+    },
+    {
+        "id": 16,
+        "text": "Success is the sum of small efforts repeated day in and day out.",
+        "author": "Robert Collier",
+        "category": "Motivation"
+    },
+    {
+        "id": 17,
+        "text": "The future depends on what you do today.",
+        "author": "Mahatma Gandhi",
+        "category": "Motivation"
     }
 ]
