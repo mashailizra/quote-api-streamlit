@@ -1,5 +1,7 @@
 import json
 import random
+from datetime import date
+from functools import lru_cache
 
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
@@ -78,3 +80,18 @@ def create_quote(new_quote: NewQuote):
         json.dump(quotes, file, indent=4)
 
     return quote
+
+@lru_cache
+def get_daily_quote(date_key: str):
+    with open("quotes.json", "r") as file:
+        quotes = json.load(file)
+
+    index = sum(ord(char) for char in date_key) % len(quotes)
+
+    return quotes[index]
+
+@app.get("/quote/today",response_model=Quote)
+def quote_of_the_day():
+    today =date.today().isoformat()
+
+    return get_daily_quote(today)
