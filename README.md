@@ -3,7 +3,7 @@ A FastAPI backend serving quotes from a local JSON file, with a
 Streamlit
 frontend that consumes it. No database required.
 ## Status
-In progress — Day 3/5 complete: full CRUD-ish endpoint set.
+In progress — Day 3/5 complete:  caching + tests.
 ## Tech stack
 Python 3, FastAPI, Uvicorn, Streamlit, Requests
 ## Features (growing daily)
