@@ -100,6 +100,41 @@
         "text": "The future depends on what you do today.",
         "author": "Mahatma Gandhi",
         "category": "Motivation"
+    },
+    {
+        "id": 18,
+        "text": "Every expert was once a beginner.",
+        "author": "Test Author",
+        "category": "Learning"
+    },
+    {
+        "id": 19,
+        "text": "Every expert was once a beginner.",
+        "author": "Test Author",
+        "category": "Learning"
+    },
+    {
+        "id": 20,
+        "text": "One day at a time can get you through anything",
+        "author": "Bob Parsons",
+        "category": "Learning"
+    },
+    {
+        "id": 21,
+        "text": "AI is built one experiment at a time.",
+        "author": "Test Author\"",
+        "category": "Artificial Intelligence"
+    },
+    {
+        "id": 22,
+        "text": "I have no special talent. I am only passionately curious.",
+        "author": "Albert Einstein",
+        "category": "Curiosity"
+    },
+    {
+        "id": 23,
+        "text": "Learning never stops",
+        "author": "Izra",
+        "category": "Learning"
     }
-    
 ]

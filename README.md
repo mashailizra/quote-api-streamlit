@@ -3,7 +3,7 @@ A FastAPI backend serving quotes from a local JSON file, with a
 Streamlit
 frontend that consumes it. No database required.
 ## Status
-In progress — Day 3/5 complete:  caching + tests.
+In progress — Day 4/5 complete: full-stack app working end to end.
 ## Tech stack
 Python 3, FastAPI, Uvicorn, Streamlit, Requests
 ## Features (growing daily)
@@ -15,6 +15,8 @@ Python 3, FastAPI, Uvicorn, Streamlit, Requests
 persisted to quotes.json).
 - [x] GET /quote/today — cached "quote of the day".
 - [x] test_api.py — basic pass/fail checks against every endpoint.
+- [x] Streamlit frontend: quote of the day, random quote button, 
+category filter, add-quote form.
 ## API docs
 Once running, visit http://127.0.0.1:8000/docs for interactive 
 API docs.
